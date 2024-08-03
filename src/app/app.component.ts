@@ -88,7 +88,7 @@ export class AppComponent {
     this.loadingSpin = true;
     setTimeout(() => {
       this.loadingSpin = false;
-    }, 3000)
+    }, 4000)
   }
 
 }
